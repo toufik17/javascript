@@ -36,9 +36,11 @@ Créer une page web comportant une phrase, dont un groupe de mots, de couleur no
 ## Changements de contenus
 
 __Introduction__
+
 Il est également possible de changer le contenu d'un tag. On peut réaliser un rollover, qui consiste à changer une image au passage de la souris, ce qui sert parfois lorsqu'il s'agit de matérialiser l'activation possible d'un bouton par exemple. Mais il est également envisageable de modifier le contenu de l'élément lui-même, comme par exemple le texte inséré entre deux tags <b> et </b>. On utilise pour ce faire la propriété this.innerHTML.
 
 __Exercices__
+
 Trouver deux images si possible de tailles différentes sur le PC ; les insérer dans une page web élémentaire en rollover. Tenir compte des effets de hauteur et de largeur de telle manière qu'aucune image ne soit déformée.
 A l'aide de la propriété this.innerHTML que l'on expérimentera, reproduire l'exemple suivant :
 Un petit texte avec un texte en italique au milieu
