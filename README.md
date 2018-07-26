@@ -1,6 +1,6 @@
 # javascript
 
-## Exo 1 Écriture d'une fonction renvoyant une valeur
+## Écriture d'une fonction renvoyant une valeur
 
 Appel à une fonction retournant une valeur</br>
 1. Créez deux variables globales a et b, initialisées respectivement à 3 et à 2.
