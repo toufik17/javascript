@@ -18,3 +18,16 @@ Appel à une fonction retournant une valeur
 ## Utilisation de switch et de l'objet Date
 
 Au click sur le bouton, lancer la fonction jourDeLaSemaine(). Cette fonction détermine le jour de la semaine et affiche selon le cas dimanche, lundi, mardi... etc. jusqu'à samedi.
+
+## Changements de couleurs
+
+Introduction
+Les changements de couleurs d'une zone de texte font appel à onmouseover, onmouseout, onclick et ondblclick, ainsi qu'aux méthodes de contrôle du style par JavaScript appliquées à l'objet courant indiqué par this.
+
+
+Exercice
+Créer une page web comportant une phrase, dont un groupe de mots, de couleur noire au chargement, doit prendre la couleur :
+
+1. rouge au passage de la souris ;
+2. citron vert (lime) en réponse à un click ;
+3. bleu marine (navy) en réponse à un double click.
