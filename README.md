@@ -64,7 +64,7 @@ __Exercice méthodes getElementById, getElementsByName et getElementsByTagName__
 
 ## Accès relatif aux noeuds
 
-1. Télécharger le fichier /exoDom/exoEnfantvide.html.
+1. Télécharger le fichier <a href="https://github.com/toufik17/javascript/blob/master/exoDom/exoEnfantVide.html">exo enfant</a>
 2. La fonction change_enfants() sélectionne le paragraphe à l'aide de son identifiant.
 3. Combien d'enfants le paragraphe a-t'il ? Pourquoi ?
 4. Changer la valeur du premier enfant de l'élément paragraphe en "On change le texte plein d'enfants ".
@@ -74,6 +74,6 @@ __Exercice méthodes getElementById, getElementsByName et getElementsByTagName__
 
 ## Gestion des évènements à l'aide d'un event listener
 
-1. Télécharger le fichier exoGestionEvenement/exo.html.
+1. Télécharger le fichier <a href="https://github.com/toufik17/javascript/blob/master/exoGestionEvenement/exo.html">exo evenement</a>.
 2. Dans la fonction Init(), identifier l'élément span1 ; lui affecter le gestionnaire d'événement mongestionnaire en réponse à un clic de souris, uniquement dans le sens de la remontée de l'événement (il n'y a pas d'event capture).
 3. Dans le gestionnaire, changer la couleur de fond de l'élément courant (objet this).
