@@ -64,7 +64,7 @@ __Exercice méthodes getElementById, getElementsByName et getElementsByTagName__
 
 ## Accès relatif aux noeuds
 
-1. Télécharger le fichier /exoEnfant/exoEnfantvide.html.
+1. Télécharger le fichier /exoDom/exoEnfantvide.html.
 2. La fonction change_enfants() sélectionne le paragraphe à l'aide de son identifiant.
 3. Combien d'enfants le paragraphe a-t'il ? Pourquoi ?
 4. Changer la valeur du premier enfant de l'élément paragraphe en "On change le texte plein d'enfants ".
