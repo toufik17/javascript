@@ -61,3 +61,13 @@ __Exercice méthodes getElementById, getElementsByName et getElementsByTagName__
 1. Créer une page HTML vide dans laquelle vous aurez à insérer votre code JavaScript. Notez en passant l'utilisation des attributs title pour informer sur les éléments de titre et paragraphe (pour les tester, laisser la souris au-dessus de l'élément).
 2. Créer une fonction modif_paragraphe, appelée en cliquant sur le titre. Cette fonction sélectionne le paragraphe en utilisant son identifiant, puis le modifie avec la propriété innerHTML, en remplaçant le mot original en caractères droit par le mot corrigé, en italique.
 3. Créer une fonction centrage_h1, appelée en cliquant sur le paragraphe. Cette fonction détecte d'abord les éléments portant le nom de balise h1. Elle sélectionne ensuite le premier d'entre eux (ça tombe bien, il n'y en a qu'un seul sur la page !), et modifie son attribut align, en lui affectant la valeur "center", à l'aide de la méthode setAttribute... dont vous testerez le fonctionnement.
+
+## Accès relatif aux noeuds
+
+1. Télécharger le fichier /exoEnfant/exoEnfantvide.html.
+2. La fonction change_enfants() sélectionne le paragraphe à l'aide de son identifiant.
+3. Combien d'enfants le paragraphe a-t'il ? Pourquoi ?
+4. Changer la valeur du premier enfant de l'élément paragraphe en "On change le texte plein d'enfants ".
+5. Diviser par deux les hauteur et largeur de l'image (le dernier enfant).
+6. Changer le code HTML du deuxième enfant en "<font color='blue'>en bleu</font>"
+7. Changer la propriété display de style du quatrième enfant en "block".
