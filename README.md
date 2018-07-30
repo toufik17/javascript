@@ -71,3 +71,9 @@ __Exercice méthodes getElementById, getElementsByName et getElementsByTagName__
 5. Diviser par deux les hauteur et largeur de l'image (le dernier enfant).
 6. Changer le code HTML du deuxième enfant en "<font color='blue'>en bleu</font>"
 7. Changer la propriété display de style du quatrième enfant en "block".
+
+## Gestion des évènements à l'aide d'un event listener
+
+1. Télécharger le fichier exoGestionEvenement/exo.html.
+2. Dans la fonction Init(), identifier l'élément span1 ; lui affecter le gestionnaire d'événement mongestionnaire en réponse à un clic de souris, uniquement dans le sens de la remontée de l'événement (il n'y a pas d'event capture).
+3. Dans le gestionnaire, changer la couleur de fond de l'élément courant (objet this).
